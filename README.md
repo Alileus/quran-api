@@ -1,6 +1,6 @@
-# Qanun API
+# Quran API
 
-**Qanun.io** is an open-source API providing access to Quranic verses, tafseer, and translations.
+an open-source API providing access to Quranic verses, tafseer, and translations.
 
 ## Features
 
@@ -10,7 +10,7 @@
 ## Beta
 
 ```
-https://beta.qanun.io/api
+https://quran.alile.us/api
 
 /api/suras/
 /api/suras/:id

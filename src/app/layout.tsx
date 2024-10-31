@@ -1,8 +1,3 @@
-export const metadata = {
-  title: "QANUN APIs",
-  description: "QANUN APIs",
-};
-
 type Props = {
   children: React.ReactNode;
 };

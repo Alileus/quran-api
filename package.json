@@ -1,5 +1,4 @@
 {
-  "name": "qanun-api",
   "license": "MIT",
   "scripts": {
     "dev": "next dev --turbopack",
