@@ -6,7 +6,6 @@
 
 - Fetch verses by surah and ayah.
 - Retrieve tafseer and translations.
-- Built with Hono.js and hosted on Vercel.
 
 ## Beta
 
@@ -18,9 +17,9 @@ https://beta.qanun.io/api
 
 ```
 
-## Documentation (Coming Soon)
+## Documentation
 
-For installation instructions, usage examples, and endpoint details, please refer to the [official documentation](https://docs.qanun.io).
+(Coming Soon)
 
 ## License
 
